@@ -25,7 +25,7 @@
  									<center>Nomor Surat</center>
  								</th>
  								<th style="vertical-align: middle;">
- 									<center>Isi Ringkas</center>
+ 									<center>Perihal</center>
  								</th>
  								<th style="vertical-align: middle;">
  									<center>Tujuan</center>

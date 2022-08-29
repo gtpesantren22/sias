@@ -36,14 +36,12 @@ session_start();
 //cek session
 if (!isset($_SESSION['username'])) {
 	echo '<script>
-							window.alert("Anda belum login, Silahkan login kembali");
-							window.location.href="./login.php";
+							window.location.href="./depan.php";
 					  </script>';
 } else
 				if (!isset($_SESSION['username'])) {
 	echo '<script>
-							window.alert("Anda belum login, Silahkan login kembali");
-							window.location.href="./login.php";
+							window.location.href="./depan.php";
 					  </script>';
 }
 //set time session

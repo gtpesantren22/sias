@@ -89,7 +89,7 @@
 								</div>
 							</div>
 							<div class="item form-group">
-								<label class="control-label col-md-3 col-sm-3 col-xs-12">Isi ringkas<span class="required">&nbsp; :</span></label>
+								<label class="control-label col-md-3 col-sm-3 col-xs-12">Perihal<span class="required">&nbsp; :</span></label>
 								<div class="col-md-6 col-sm-6 col-xs-12">
 									<textarea name="isi_ringkas" class="form-control col-md-7 col-xs-12" required="required"></textarea>
 								</div>

@@ -1,4 +1,3 @@
-	
 	<div class="">
 		<div class="page-title">
 			<div class="title_left">
@@ -20,14 +19,14 @@
 					<div class="x_content">
 						<div class="col-md-8 col-lg-8 col-sm-7">
 							<blockquote>
-							<strong>Note :</strong>
-							<h4>
-								Lakukan backup database secara berkala untuk membuat cadangan database yang bisa direstore kapan saja ketika dibutuhkan. <br>Silakan klik tombol <strong>"Backup"</strong> untuk memulai proses backup data.
-							</h4><br>
-							<center>
-								<a href="act_backup.php" class="btn btn-success"><i class="fa fa-download"></i> Backup</a>
-							</center>
-							<footer>File ber ekstensi .sql</footer>
+								<strong>Note :</strong>
+								<h4>
+									Lakukan backup database secara berkala untuk membuat cadangan database yang bisa direstore kapan saja ketika dibutuhkan. <br>Silakan klik tombol <strong>"Backup"</strong> untuk memulai proses backup data.
+								</h4><br>
+								<center>
+									<a href="act_backup.php" class="btn btn-success"><i class="fa fa-download"></i> Backup</a>
+								</center>
+								<footer>File ber ekstensi .sql</footer>
 							</blockquote>
 						</div>
 					</div>
@@ -35,4 +34,3 @@
 			</div>
 		</div>
 	</div>
-	
