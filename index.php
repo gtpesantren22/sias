@@ -64,7 +64,7 @@ $_SESSION['start_time'] = time();
 			<div class="col-md-3 left_col">
 				<div class="left_col scroll-view">
 					<div class="navbar nav_title" style="border: 0;">
-						<a href="index.php" class="site_title"><i class="fa fa-home"></i> SIAS</a>
+						<a href="index.php" class="site_title"><i class="fa fa-home"></i> AMS Apps</a>
 					</div>
 
 					<div class="clearfix"></div>
