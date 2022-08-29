@@ -63,7 +63,7 @@ require 'function_tanggal.php';
                                             <tr>
                                                 <?php
                                                 $no = 1;
-                                                $query    = "SELECT * FROM surat_masuk";
+                                                $query    = "SELECT * FROM surat_masuk ORDER BY tanggal_terima DESC";
                                                 $sql    = mysqli_query($connect, $query);
                                                 while ($data = mysqli_fetch_array($sql)) {
                                                 ?>
