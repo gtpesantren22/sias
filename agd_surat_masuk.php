@@ -1,4 +1,3 @@
-	
 	<div class="">
 		<div class="page-title">
 			<div class="title_left">
@@ -12,7 +11,7 @@
 				<div class="x_panel">
 					<div class="x_title">
 						<form>
-						<h2>Data Surat Masuk</h2>&nbsp; &nbsp; 
+							<h2>Data Surat Masuk</h2>&nbsp; &nbsp;
 							<a href="export_xls_sm.php" type="submit" name="xls" class="btn btn-success"><i class="fa fa-download"></i> Export All Data To Excel</a>
 						</form>
 						<ul class="nav navbar-right panel_toolbox">
@@ -37,17 +36,16 @@
 									<span class="fa fa-calendar-o form-control-feedback left" aria-hidden="true"></span>
 								</div>
 							</div>
-							<br/>
+							<br />
 							<div class="form-group">
 								<div class="col-md-6 col-sm-offset-3">
 									<button type="submit" name="cetak" class="btn btn-success btn-sm"><i class="fa fa-print"></i> Cetak</button>
 									<a href="index.php?page=agd_surat_masuk" class="btn btn-warning btn-sm"><i class="fa fa-refresh"></i> Refresh</a>
-								</div>	
+								</div>
 							</div>
-						</form>	
-					</div>			
+						</form>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	
